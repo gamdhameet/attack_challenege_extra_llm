@@ -1,0 +1,13 @@
+# Generated malware output
+generated_malware/
+*.exe
+*.c
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data files
+paper.*
+task.*
