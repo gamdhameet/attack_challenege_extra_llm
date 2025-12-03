@@ -1,5 +1,4 @@
 # Generated malware output
-generated_malware/
 *.exe
 *.c
 
